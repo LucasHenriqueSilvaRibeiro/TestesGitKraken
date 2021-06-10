@@ -1,2 +1,0 @@
-# TestesGitKraken
-Repositório p/ testes
